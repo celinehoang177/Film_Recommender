@@ -1,6 +1,6 @@
 # Film Recommender System Using Machine Learning 🎥 
 
-Welcome to my Film Recommender System project! 🍿🎬 This project is designed to help you recommend movies based on your preferences. The recommendation system is built using machine learning techniques and leverages diverse datasets, including:
+Welcome to my Netflix Film Recommender System project! 🍿🎬 This project is designed to help you recommend movies based on your preferences. The recommendation system is built using machine learning techniques and leverages diverse datasets, including:
 
 1. [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
 2. [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
@@ -23,7 +23,7 @@ In the data manipulation and preprocessing stages, I employed pandas and numpy t
 To run this project and explore the Film Recommender System, please follow these steps:
 
 1. Start by cloning this repository to your local system.
-2. Download all the required libraries with the command `pip install -r requirements.txt`.
+2. Download all the required libraries with the command `pip install -r libraries.txt`.
 3. In the `data_preprocessing 3.ipynb` and `data_preprocessing 4.ipynb` files, replace the API key in `tmdb.api_key` with your actual API key.
 4. Open your terminal or command prompt from your project directory and run the `main.py` file with the following command: `python main.py`.
 5. Hurray! You're now ready to explore the Netflix Film Recommender System and discover your next favorite movies.
