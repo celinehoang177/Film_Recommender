@@ -16,7 +16,7 @@ This application provides in-depth movie details such as summaries, genres, rele
 
 To fetch these data, I utilized the TMDB API at https://www.themoviedb.org/documentation/api. Additionally, I performed web scraping using `beautifulsoup4` to extract user reviews from IMDb and conduct sentiment analysis on them.
 
-In the data manipulation and preprocessing stages, I employed `pandas` and `numpy` to prepare the datasets. I've also developed machine learning pipelines, employing `CountVectorizer` and `cosine_similarity`, to process text and compute cosine similarity. Furthermore, my sentiment analysis model, stored in `nlp_model.pkl`, helps categorize user reviews as positive or negative.
+In the data manipulation and preprocessing stages, I employed `pandas` and `numpy` to prepare the datasets. I've also developed machine learning pipelines, employing `Collaborative Filtering`, `CountVectorizer` and `cosine_similarity`, to process text and compute cosine similarity. Furthermore, my sentiment analysis model, stored in `nlp_model.pkl`, helps categorize user reviews as positive or negative.
 
 ## Getting Started
 
