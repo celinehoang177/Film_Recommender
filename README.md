@@ -1,6 +1,6 @@
 # Film Recommender System Using Machine Learning 🎥 
 
-Welcome to my Film Recommender System project! 🍿🎬 This project is designed to help you recommend movies based on your preferences. The recommendation system is built using machine learning techniques and leverages diverse datasets, including:
+Welcome to my Film Recommender System project! 🍿🎬 This project is designed to recommend movies for users based on their preferences. The recommendation system is built using machine learning techniques and leverages diverse datasets, including:
 
 1. [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
 2. [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
