@@ -24,7 +24,7 @@ To run this project and explore the Film Recommender System, please follow these
 
 1. Start by cloning this repository to your local system.
 2. Download all the libraries in `libraries.txt` with the command `pip install -r libraries.txt`.
-3. In the `data_preprocessing 3.ipynb` and `data_preprocessing 4.ipynb` files, replace the API key in `tmdb.api_key` with your actual API key.
+3. In the `data_preprocessing 3.ipynb` and `data_preprocessing 4.ipynb` files, replace my API key in `tmdb.api_key` with your actual API key.
 4. Open your terminal or command prompt from your project directory and run the `main.py` file with the following command: `python main.py`.
 5. Yay! You're now ready to explore the Film Recommender System and discover your next favorite movies.
 
