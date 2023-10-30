@@ -1,4 +1,4 @@
-# Film Recommender System Using Machine Learning 🎥 
+# Film Recommender System Using Machine Learning
 
 Welcome to my Film Recommender System project! 🍿🎬 This project is designed to recommend movies for users based on their preferences. The recommendation system is built using machine learning techniques and leverages diverse datasets, including:
 
