@@ -18,7 +18,7 @@ To fetch these data, I utilized the TMDB API at https://www.themoviedb.org/docum
 
 In the data manipulation and preprocessing stages, I employed `pandas` and `numpy` to prepare the datasets. I've also developed machine learning pipelines, employing `CountVectorizer`, `cosine_similarity`, and `Collaborative Filtering`, to process text and compute cosine similarity. Furthermore, my sentiment analysis model, stored in `nlp_model.pkl`, helps categorize user reviews as positive or negative.
 
-## Getting Started
+## How to compile
 
 To run this project and explore the Film Recommender System, please follow these steps:
 
@@ -26,6 +26,6 @@ To run this project and explore the Film Recommender System, please follow these
 2. Download all the required libraries with the command `pip install -r libraries.txt`.
 3. In the `data_preprocessing 3.ipynb` and `data_preprocessing 4.ipynb` files, replace the API key in `tmdb.api_key` with your actual API key.
 4. Open your terminal or command prompt from your project directory and run the `main.py` file with the following command: `python main.py`.
-5. Hurray! You're now ready to explore the Netflix Film Recommender System and discover your next favorite movies.
+5. Yay! You're now ready to explore the Film Recommender System and discover your next favorite movies.
 
 Enjoy your cinematic journey, and happy movie hunting! 🍿📽️
