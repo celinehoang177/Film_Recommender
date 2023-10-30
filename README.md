@@ -12,7 +12,7 @@ As a passionate movie enthusiast, I often find myself spending a considerable am
 
 To address this challenge and to enhance the movie-watching experience, I embarked on creating a film recommender system. The goal is to compile all the valuable reviews and sentiments about each movie, offering audiences an insightful overview of each film. With this system, choosing your next favorite movie becomes easier, and you can enjoy quality time with friends, family, and loved ones 👪.
 
-This application provides in-depth movie details such as summaries, genres, release dates, ratings, runtimes, top cast members, user reviews, and recommendations. It's a one-stop solution for movie enthusiasts, making movie selection a breeze.
+This project provides in-depth movie details such as summaries, genres, release dates, ratings, runtimes, top cast members, user reviews, and recommendations. It's a one-stop solution for movie enthusiasts, making movie selection a breeze.
 
 To fetch these data, I utilized the TMDB API at https://www.themoviedb.org/documentation/api. Additionally, I performed web scraping using `beautifulsoup4` to extract user reviews from IMDb and conduct sentiment analysis on them.
 
